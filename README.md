@@ -1,4 +1,4 @@
-<h4 align="center">"🚀 Passionate Developer | 🌐 Exploring the Digital Universe | 🎨 Crafting Lines of Code | 📚 Lifelong Learner | ✨ Turning Ideas into Reality <br><br>👋 Hey there, I'm Akshay Rajput – an engineer with a passion for leveraging cutting-edge tech to create solutions that improve lives. A mobile Developer, committed to excellence and growth.</h4>
+<h4 align="left">"🚀 Passionate Developer | 🌐 Exploring the Digital Universe | 🎨 Crafting Lines of Code | 📚 Lifelong Learner | ✨ Turning Ideas into Reality <br><br>👋 Hey there, I'm Akshay Rajput – an engineer with a passion for leveraging cutting-edge tech to create solutions that improve lives. A mobile Developer, committed to excellence and growth.</h4>
 
 ###
 
@@ -61,25 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay8750&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay8750&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/Akshay8750/count.svg?"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay8750&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay8750&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Akshay8750/Akshay8750/output/snake.svg" alt="Snake animation" />
 
 ###
